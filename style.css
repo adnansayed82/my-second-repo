@@ -53,3 +53,39 @@ section{display: flex;}
     font-size: 50px;
     color: lawngreen;
 }    
+.jontu{
+    font-size: 50px;
+}
+.jontop{
+    font-size: 30px;
+}
+
+.jondiv {
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 5%;
+
+    box-shadow: 10px 10px 70px black; 
+    margin-left: 4%;
+ margin-right:7% ;
+border-radius: 8px;
+}
+#second-last{
+    border-left: 9px solid;
+    border-image: linear-gradient(red , orange ) ;
+    border-image-slice: 1; 
+}
+.mama{ color: rgb(58, 67, 117);
+    font-size: 30px;
+
+}
+#caca{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#last{ border-left: 9px solid;
+    border-image: linear-gradient(cyan ,blue ) 1 ;
+
+}
+
