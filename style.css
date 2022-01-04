@@ -49,9 +49,7 @@ section{display: flex;}
     font-style: inherit;
     padding-right: 10%;
 }
-    font-size: 40px;
-}
 #tda{
-    color: rgb(221, 221, 18);
-    font-size: 60px;
-}
+    font-size: 50px;
+    color: lawngreen;
+}    
