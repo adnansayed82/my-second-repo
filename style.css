@@ -28,11 +28,30 @@ section{display: flex;}
     padding-left: 10%;
 }
 .image{
-    width: 150%;
+    width: 120%;
     padding-top: 20%;
 }
 .border{
     padding-right: 10%;
 }
-
-
+#image2{
+    width: 80%;
+}
+.two{
+    padding-top: 8%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#tpera{
+    font-size: 30px;
+    text-align: justify;
+    font-style: inherit;
+    padding-right: 10%;
+}
+    font-size: 40px;
+}
+#tda{
+    color: rgb(221, 221, 18);
+    font-size: 60px;
+}
